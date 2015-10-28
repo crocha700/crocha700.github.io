@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title> Cesar B. Rocha </title>
+		<description>Personal website of Cesar B. Rocha</description>
+		<link>https://crocha700.github.io/personal-jekyll-theme</link>
+		<atom:link href="https://crocha700.github.io/personal-jekyll-theme/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Welcome to new website!</title>
+				
+				
+					<description>Welcome to my new website. This website is still under construction. Stay tuned!</description>
+				
+				<pubDate>Tue, 27 Oct 2015 00:00:00 -0700</pubDate>
+				<link>https://crocha700.github.io/personal-jekyll-theme/welcome,%20kindness/2015/10/27/welcome.html</link>
+				<guid isPermaLink="true">https://crocha700.github.io/personal-jekyll-theme/welcome,%20kindness/2015/10/27/welcome.html</guid>
+			</item>
+		
+	</channel>
+</rss>
