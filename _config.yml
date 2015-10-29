@@ -67,7 +67,7 @@ paginate: 5
 fb-share: True
 twitter-share: True
 reddit-share: True
-disqus-shortname: "panossakkos"
+disqus-shortname: ""
 
 ###############
 # Life Events #
@@ -127,10 +127,12 @@ social:
 pages_list:
   About: 'about'
   Blog: 'blog'
-  Publications: 'publications'
-  Code: 'code'
   Career: 'career'
+  Code: 'code'
+  Collaborators: 'collaborators'
   Contact: 'contact'
+  Publications: 'publications'
+
 
 # Pagination path
 paginate_path: "blog/page:num"

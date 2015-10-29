@@ -18,6 +18,18 @@
 
         {% include about.html %}
 
+      {% elsif page.section-type == "publications" %}
+
+        {% include publications.html %}
+
+      {% elsif page.section-type == "code" %}
+
+        {% include code.html %}
+
+      {% elsif page.section-type == "collaborators" %}
+
+          {% include collaborators.html %}
+
       {% elsif page.section-type == "latest-post" %}
 
         {% include latest-post.html %}
