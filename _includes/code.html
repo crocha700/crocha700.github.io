@@ -5,11 +5,6 @@
     <div class="row">
         <div class="col-lg-8 col-lg-offset-2">
 
-          {{ page.content | markdownify }}
-
-          {% if site.email %}
-            {% if site.email contains '@' %}
-              {% assign newemail = site.email | split: '@' %}
                 <p>
                 <script>
                   function join_at_email(user, domain){
@@ -23,12 +18,9 @@
                   );
                   </script>
                 </p>
-            {% else %}
-              <p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
-            {% endif %}
-          {% endif %}
 
-          {% include social-buttons.html %}
+              <p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+
 
         </div>
     </div>
