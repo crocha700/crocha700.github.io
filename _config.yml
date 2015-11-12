@@ -55,6 +55,8 @@ lines:			# You can add HTML Tags in the Text
   - text: "Computational fluid dynamics"
   - text: "Data science"
   - text: "Reproducibility"
+  - text: "Oceanographic big data"
+  - text: "Python"
 
 ########
 # Blog #
@@ -74,6 +76,9 @@ disqus-shortname: ""
 ###############
 
 events:
+  - image: "/img/career/Cesar_GFD.png"
+    date: "Summer 2015"
+    description: "Fellow of the Geophysical Fluids Dynamics Program"
   - image: "/img/career/Cesar_Coding.png"
     date: "September 2013"
     description: "Started coding in Python and using version control"
