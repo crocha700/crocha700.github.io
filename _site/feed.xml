@@ -7,6 +7,17 @@
 		<atom:link href="https://crocha700.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>&lt;Title&gt;</title>
+				
+				
+					<description></description>
+				
+				<pubDate>Sun, 15 Nov 2015 00:00:00 -0800</pubDate>
+				<link>https://crocha700.github.io/%3Ccategory%3E/2015/11/15/welcome.html</link>
+				<guid isPermaLink="true">https://crocha700.github.io/%3Ccategory%3E/2015/11/15/welcome.html</guid>
+			</item>
+		
+			<item>
 				<title>Research Statement</title>
 				
 				
@@ -29,19 +40,8 @@
 					<description></description>
 				
 				<pubDate>Sun, 15 Nov 2015 00:00:00 -0800</pubDate>
-				<link>https://crocha700.github.io/%3Ccategory%3E/2015/11/15/2015-11-15-research.html</link>
-				<guid isPermaLink="true">https://crocha700.github.io/%3Ccategory%3E/2015/11/15/2015-11-15-research.html</guid>
-			</item>
-		
-			<item>
-				<title>&lt;Title&gt;</title>
-				
-				
-					<description></description>
-				
-				<pubDate>Sun, 15 Nov 2015 00:00:00 -0800</pubDate>
-				<link>https://crocha700.github.io/%3Ccategory%3E/2015/11/15/2015-11-14-welcome.html</link>
-				<guid isPermaLink="true">https://crocha700.github.io/%3Ccategory%3E/2015/11/15/2015-11-14-welcome.html</guid>
+				<link>https://crocha700.github.io/%3Ccategory%3E/2015/11/15/research.html</link>
+				<guid isPermaLink="true">https://crocha700.github.io/%3Ccategory%3E/2015/11/15/research.html</guid>
 			</item>
 		
 			<item>
