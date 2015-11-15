@@ -68,7 +68,8 @@ paginate: 5
 
 fb-share: True
 twitter-share: True
-reddit-share: False
+google-plus-share: True
+linkedin-share: True
 disqus-shortname: ""
 
 ###############
