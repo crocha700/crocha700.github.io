@@ -62,13 +62,13 @@ lines:			# You can add HTML Tags in the Text
 # Blog #
 ########
 
-post-preview-words: 96
+post-preview-words: 80
 
 paginate: 5
 
 fb-share: True
 twitter-share: True
-reddit-share: True
+reddit-share: False
 disqus-shortname: ""
 
 ###############
