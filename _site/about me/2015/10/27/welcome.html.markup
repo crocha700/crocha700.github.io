@@ -1,0 +1,375 @@
+
+<!-- Post Layout Start -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+  
+<!-- HEAD Start -->
+
+<head>
+  
+    <script>
+    // Don't force http when serving the website locally
+    if (!(window.location.host.startsWith("127.0.0.1")) && (window.location.protocol != "https:"))
+        window.location.protocol = "https";
+    </script>
+  
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Personal website of Cesar B. Rocha">
+  <meta name="author" content="Cesar B. Rocha">
+  <meta name="keywords" content="Cesar Rocha, Oceanography, Geophysical Fluid Dynamics, Data Science">
+  <link rel="canonical" href="/about%20me/2015/10/27/welcome.html">
+  
+  
+  <title> Cesar B. Rocha   | Welcome to new website!</title>
+
+  <!-- Bootstrap Core CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+  <!-- Custom CSS -->
+  <link href="/css/grayscale.css" rel="stylesheet">
+  <link href="/css/timeline.css" rel="stylesheet">
+
+  <!-- Custom Fonts -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+  <link href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+  <link href="//fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+  <![endif]-->
+  
+</head>
+
+<!-- HEAD End -->
+
+
+  <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+
+    
+<!-- Navigation Start -->
+
+<nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                <i class="fa fa-bars"></i>
+            </button>
+            
+              <a class="navbar-brand page-scroll" href="/index.html#page-top">
+            
+            <div> Cesar B. Rocha </div>
+          </a>
+        </div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+            <ul class="nav navbar-nav">
+                <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+                <li class="hidden">
+                    <a href="#page-top"></a>
+                </li>
+
+                
+                  <!-- Blog, Post, Tag pages-->
+                  
+                    
+                      <li>
+                        <a class="page-scroll" href="/index.html#about"> About </a>
+                      </li>
+                    
+                  
+                    
+                      <li>
+                        <a class="page-scroll" href="/blog/index.html"> Blog </a>
+                      </li>
+                    
+                  
+                    
+                      <li>
+                        <a class="page-scroll" href="/index.html#career"> Career </a>
+                      </li>
+                    
+                  
+                    
+                      <li>
+                        <a class="page-scroll" href="/index.html#code"> Code </a>
+                      </li>
+                    
+                  
+                    
+                      <li>
+                        <a class="page-scroll" href="/index.html#collaborators"> Collaborators </a>
+                      </li>
+                    
+                  
+                    
+                      <li>
+                        <a class="page-scroll" href="/index.html#contact"> Contact </a>
+                      </li>
+                    
+                  
+                    
+                      <li>
+                        <a class="page-scroll" href="/index.html#publications"> Publications </a>
+                      </li>
+                    
+                  
+                
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<!-- Navigation End -->
+
+
+    <section id="Welcome to new website!" class="container content-section text-center">
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2">
+
+          <h1><strong>Welcome to new website!</strong></h1>
+          <h4><strong>27 Oct 2015</strong>
+            <small> . about me . <a href="/about%20me/2015/10/27/welcome.html#disqus_thread">Comments</a>
+            
+              <a href="/tags/about me.html">#about me</a>
+            
+            </small>
+          </h4>
+
+          <p>Hi there. I’m Cesar B. Rocha. I’m a world citizen, human-being with his 
+ambitions, virtues and limitations.  I was brought up to a middle class family and
+grew up in Sao Paulo, Brazil. My ancestry speaks to the Brazilian diversity: I’m a 
+mix up of Portuguese, Austriac, and Japanese people. Yes, I’m 25% Japanese: my 
+grandmother’s family fled Japan in the 30’s.</p>
+
+<p>My most lively childhood memories are of long hours of swim practice and the
+swimming competitions. I started swimming on a daily basis at the age of 5. 
+And I believe my very first competition happened when I was 8 (I retired at the age of 14) –
+most of my loyal friendships stem from the swim team.</p>
+
+<p>I attended college at the <a href="https://en.wikipedia.org/wiki/University_of_São_Paulo">Universidade de Sao Paulo</a>.
+USP, Brazil.
+Being a student in a gigantic and diverse public university in Brazil changed my life.
+At USP, I’ve made awesome friends and fell in love with applied mathematics, data science, and free software. 
+ While I was studying science, I’ve made a lot of friends in the humanities.  When I was freshman, I had a 
+  very biased perspective of life and the socio-political condition of Brazil and world. The
+  traditional selfish upper middle class reasoning: I’m here because I deserve it – my family and I 
+  worked hard, bla bla bla. Hagging out with my friends from humanities turned
+  out to be a priceless opportunity for personal growth and discovery.
+  This may sound cliché but I’m committed to apply my skills to improve the world.</p>
+
+<p>In 2012 I went on to visit at <a href="http://www.umassd.edu">UMass Dartmouth</a> 
+ in south coast of Massachusetts, as part of my masters. (I had been visiting
+ UMass since early 2010.) In Massachusetts I could enjoy small pleasures in life:
+  an inspiring <a href="http://www.umassd.edu/engineering/mne/people/facultyandstaff/amittandon/">research advisor</a>,
+  picking up vegetables in a organic farm every Friday afternoon with my buddy Frank <code>Chico</code> Smith, and
+  a colorful early Fall in New England. </p>
+
+<p>I moved to Southern California about two years ago to start my PhD studies at 
+<a href="https://ucsd.edu">UC San Diego</a>. And I love it there! The weather is mild
+all year and the people are really nice. If I could easily choose, I think I would
+pick SoCal to settle down.</p>
+
+<p>In my free time I enjoy listening to music, reading, biking, surfing, and swimming. Among other things, 
+I’m a big fan of 
+<a href="https://www.youtube.com/watch?v=IPENGb-FG5E">Jorge Ben</a>, <a href="https://www.youtube.com/watch?v=hmOD7ayA1y8">jazzy Bossa Nova</a>, <a href="https://www.youtube.com/watch?v=zucBfXpCA6s">piano performances</a>, <a href="https://en.wikipedia.org/wiki/José_Saramago">Jose Saramago</a>, <a href="https://en.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_Márquez">Gabriel Garcia Marques</a>,<a href="https://en.wikipedia.org/wiki/João_Guimarães_Rosa">Guimaraes Rosa</a>, and <a href="http://www.newyorker.com">The New Yorker</a>.</p>
+
+<p>Moving ahead, I look forward to learn Chinese and to play saxophone…</p>
+
+
+
+          
+<!-- Share Buttons Start -->
+
+<div>
+
+  
+    <div style="float:left; padding: 0 5px; vertical-align:top">
+      <div class="fb-share-button" data-href="https://crocha700.github.io/about%20me/2015/10/27/welcome.html" data-layout="button_count"></div>
+    </div>
+  
+
+  
+    <div style="float:left; padding: 0 5px; vertical-align:top">
+      <a href="https://twitter.com/share" class="twitter-share-button" data-url="https://crocha700.github.io/about%20me/2015/10/27/welcome.html" data-text="Welcome to new website! #about me "></a>
+  </div>
+  
+
+  
+    <div style="float:left; padding: 0 5px; vertical-align:top">
+      <script type="text/javascript">reddit_newwindow='1'</script>
+      <script type="text/javascript">reddit_title='Welcome to new website!'</script>
+      <script type="text/javascript">reddit_url='https://crocha700.github.io/about%20me/2015/10/27/welcome.html'</script>
+      <script type="text/javascript" src="//www.redditstatic.com/button/button1.js"></script>
+    </div>
+  
+
+</div>
+
+<!-- Share Buttons End -->
+
+
+          
+<!-- Disqus Comments Start -->
+
+
+  <div id="disqus_thread"></div>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+
+<!-- Disqus Comments End -->
+
+
+        </div>
+      </div>
+    </section>
+
+    <section id="Welcome to new website!" class="container content-section text-center">
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2">
+          
+<!-- Social Buttons Start -->
+
+<ul class="list-inline social-buttons">
+  
+    <li><a href="https://twitter.com/crocha700" target="_blank"><i class="fa fa-twitter fa-fw"></i></a></li>
+  
+    <li><a href="https://github.com/crocha700" target="_blank"><i class="fa fa-github fa-fw"></i></a></li>
+  
+    <li><a href="https://bitbucket.com/crocha700" target="_blank"><i class="fa fa-bitbucket fa-fw"></i></a></li>
+  
+    <li><a href="/feed.xml" target="_blank"><i class="fa fa-rss fa-fw"></i></a></li>
+  
+</ul>
+
+<!-- Social Buttons End -->
+
+        </div>
+      </div>
+    </section>
+
+    
+ <!-- Footer Start -->
+
+<footer>
+    <div class="container text-center">
+        <p>Copyright &copy; Cesar B. Rocha 2015</p>
+    </div>
+</footer>
+
+<p><br><br><br><br><br><br></p>
+
+<!-- Footer End -->
+
+
+    
+<!-- Javascript Start -->
+
+<!-- jQuery -->
+<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+
+<!-- Bootstrap Core JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+<!-- Plugin JavaScript -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+
+<!-- Custom Theme JavaScript -->
+<script src="/js/grayscale.js"></script>
+
+
+
+  <!-- Google Tracking Id Start -->
+
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', '<YOUR GOOGLE TRACKING ID>', 'auto');
+    ga('send', 'pageview');
+  </script>
+
+  <!-- Google Tracking Id End -->
+
+
+
+
+
+
+  <!-- Disqus -->
+
+  
+
+    <script type="text/javascript">
+    var disqus_shortname = '';
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+    </script>
+
+  
+
+  
+
+    <!-- Comments Counter Start -->
+
+    <script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = ''; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function () {
+    var s = document.createElement('script'); s.async = true;
+    s.type = 'text/javascript';
+    s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+    (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+    </script>
+
+    <!-- Comments Counter End -->
+
+  
+
+
+
+
+
+  <!-- Share buttons Start -->
+
+  
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+  
+
+  
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+    fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+  
+
+  <!-- Share buttons End -->
+
+
+
+
+
+<!-- Javascript End -->
+
+
+  </body>
+</html>
+
+<!-- Post Layout End -->
