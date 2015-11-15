@@ -7,6 +7,22 @@
 		<atom:link href="https://crocha700.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Research Statement</title>
+				
+				
+					<description>&lt;p&gt;I am a scientist studying oceanography at &lt;a href=&quot;https://scripps.ucsd.edu&quot;&gt;Scripps Institution of Oceanography&lt;/a&gt;,
+ &lt;a href=&quot;https://ucsd.edu&quot;&gt;UC San Diego&lt;/a&gt;. As a physical oceanography, I strive to understand how the ocean works,
+  and its relation to the climate system. In particular, I seek to understand the dynamics of turbulent flows
+  in the upper ocean.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sun, 15 Nov 2015 00:00:00 -0800</pubDate>
+				<link>https://crocha700.github.io/about-me/2015/11/15/research.html</link>
+				<guid isPermaLink="true">https://crocha700.github.io/about-me/2015/11/15/research.html</guid>
+			</item>
+		
+			<item>
 				<title>&lt;Title&gt;</title>
 				
 				
@@ -43,22 +59,6 @@ grandmother’s family fled Japan in the 1930’s.&lt;/p&gt;
 				<pubDate>Sat, 14 Nov 2015 00:00:00 -0800</pubDate>
 				<link>https://crocha700.github.io/about-me/2015/11/14/welcome.html</link>
 				<guid isPermaLink="true">https://crocha700.github.io/about-me/2015/11/14/welcome.html</guid>
-			</item>
-		
-			<item>
-				<title>Research Statement</title>
-				
-				
-					<description>&lt;p&gt;I am a scientist studying oceanography at &lt;a href=&quot;https://scripps.ucsd.edu&quot;&gt;Scripps Institution of Oceanography&lt;/a&gt;,
- &lt;a href=&quot;https://ucsd.edu&quot;&gt;UC San Diego&lt;/a&gt;. As a physical oceanography, I strive to understand how the ocean works,
-  and its relation to the climate system. In particular, I seek to understand the dynamics of turbulent flows
-  in the upper ocean.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Sun, 15 Nov 0015 00:00:00 -0800</pubDate>
-				<link>https://crocha700.github.io/about-me/0015/11/15/research.html</link>
-				<guid isPermaLink="true">https://crocha700.github.io/about-me/0015/11/15/research.html</guid>
 			</item>
 		
 	</channel>
