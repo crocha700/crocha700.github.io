@@ -94,7 +94,7 @@ events:
     description: "Graduated with a BSc degree from University of Sao Paulo"
 
 # First image of the Career timeline
-#career-img: "/img/career/Cesar_Freshman.png"
+career-img: "/img/career/Cesar_Freshman.png"
 
 ##################
 # Contact layout #
