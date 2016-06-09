@@ -77,7 +77,7 @@ disqus-shortname: ""
 ###############
 
 events:
-  - image: "/img/career/Cesar_NASA.png"
+  - image: "/img/career/Cesar_NASA.jpg"
     date: "2016"
     description: "NASA Earth and Space Science Graduate Student Fellow"
   - image: "/img/career/Cesar_GFD.png"
