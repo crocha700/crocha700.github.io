@@ -79,7 +79,7 @@ disqus-shortname: ""
 events:
   - image: "/img/career/Cesar_NASA.jpg"
     date: "2016"
-    description: "NASA Earth and Space Science Graduate Student Fellow"
+    description: "NASA Earth and Space Science Graduate Fellow"
   - image: "/img/career/Cesar_GFD.png"
     date: "Summer 2015"
     description: "Fellow of the Geophysical Fluids Dynamics Program"
