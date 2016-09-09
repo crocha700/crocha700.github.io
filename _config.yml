@@ -132,16 +132,12 @@ social:
 
 pages_list:
   About: 'about'
-  Blog: 'blog'
   Career: 'career'
   Code: 'code'
   Collaborators: 'collaborators'
   Contact: 'contact'
   Publications: 'publications'
 
-
-# Pagination path
-paginate_path: "blog/page:num"
 
 # Enable minification SASS
 sass:
