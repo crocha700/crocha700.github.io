@@ -84,10 +84,6 @@
                     </li>
                   
                     <li>
-                      <a class="page-scroll" href="#blog"> Blog </a>
-                    </li>
-                  
-                    <li>
                       <a class="page-scroll" href="#career"> Career </a>
                     </li>
                   
@@ -130,6 +126,17 @@
                     <span class="intro-text"><!--
 If you want to have a static message in your intro layout, disable the dynamic-typing in the _config.yml and write here your text
 -->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-63032127-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
 </span>
                     <h5>&nbsp;</h5>
                     <a href="#about" class="page-scroll">
@@ -152,14 +159,6 @@ If you want to have a static message in your intro layout, disable the dynamic-t
 
       
 
-    
-
-      
-
-    
-
-      
-
         
 <!-- About Start -->
 
@@ -170,9 +169,10 @@ If you want to have a static message in your intro layout, disable the dynamic-t
 
 <p>I’m a third-year PhD student in the Climate-Ocean-Atmosphere Program at
 <a href="http://www.scripps.ucsd.edu">Scripps Institution of Oceanography</a>, University of California, San Diego.
-You can find more about me by reading my welcome blog post <a href="./about-me/2015/11/15/whoami.html">who am I? what am I doing here?</a>.
- You can find more about my work by reading my <a href="./about-me/2015/11/15/research.html">research statement</a> or checking
- my publication list.</p>
+I combine theory, observations, and computer simulations to study how the ocean flows
+and shapes the climate. My recent research has targeted the turbulent and wavy
+dynamics of the upper ocean at horizontal scales between 1-300 km.
+You can find more about me on my <a href="https://github.com/crocha700/rocha_cv/blob/master/rocha_cv.pdf">vitae</a>.</p>
 
 
       </div>
@@ -185,37 +185,6 @@ You can find more about me by reading my welcome blog post <a href="./about-me/2
       
 
     
-
-      
-
-        
-<!-- Latest Post Preview Start -->
-
-<section id="" class="container content-section text-center">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2">
-
-        <h2 id="blog">Blog</h2>
-
-
-        
-        <h4> <strong> 15 Nov 2015 </strong>
-          <small>. about-me .</small>
-          <strong> <a href="/about-me/2015/11/15/whoami.html">Who am I? What am I doing here? </a> </strong>
-          <small> <a href="/about-me/2015/11/15/whoami.html#disqus_thread">Comments</a></small>
-        </h4>
-
-        <p>Hi there. I’m Cesar B. Rocha. I’m a world citizen, human-being with his ambitions, virtues and limitations. I was brought up to a middle class family and grew up in Sao Paulo, Brazil. My heritage speaks to the Brazilian diversity: I’m a mix up of Portuguese, Austriac, and Japanese people. Yes, I’m 25% Japanese: my grandmother’s family fled Japan in the 1930’s. My most lively childhood memories are of long hours of swim practice and of swimming competitions across Sao…</p>
-
-
-        <a href="/blog/index.html"><h4><strong>View more posts</strong></h4></a>
-
-      </div>
-    </div>
-</section>
-
-<!-- Latest Post Preview End -->
-
 
       
 
@@ -243,14 +212,14 @@ You can find more about me by reading my welcome blog post <a href="./about-me/2
               
               ">
                   <div class="timeline-image">
-                      <img class="img-circle img-responsive" src="/img/career/Cesar_GFD.png" alt="">
+                      <img class="img-circle img-responsive" src="/img/career/Cesar_NASA.jpg" alt="">
                   </div>
                   <div class="timeline-panel">
                       <div class="timeline-heading">
-                          <h4>Summer 2015</h4>
+                          <h4>2016</h4>
                       </div>
                       <div class="timeline-body">
-                          <p>Fellow of the Geophysical Fluids Dynamics Program</p>
+                          <p>NASA Earth and Space Science Graduate Fellow</p>
 
                       </div>
                   </div>
@@ -265,14 +234,14 @@ You can find more about me by reading my welcome blog post <a href="./about-me/2
               
               ">
                   <div class="timeline-image">
-                      <img class="img-circle img-responsive" src="/img/career/Cesar_Coding.png" alt="">
+                      <img class="img-circle img-responsive" src="/img/career/Cesar_GFD.png" alt="">
                   </div>
                   <div class="timeline-panel">
                       <div class="timeline-heading">
-                          <h4>September 2013</h4>
+                          <h4>Summer 2015</h4>
                       </div>
                       <div class="timeline-body">
-                          <p>Started coding in Python and using version control</p>
+                          <p>Fellow of the Geophysical Fluid Dynamics Program</p>
 
                       </div>
                   </div>
@@ -289,7 +258,7 @@ You can find more about me by reading my welcome blog post <a href="./about-me/2
                   </div>
                   <div class="timeline-panel">
                       <div class="timeline-heading">
-                          <h4>September 2013 - Today</h4>
+                          <h4>September 2013</h4>
                       </div>
                       <div class="timeline-body">
                           <p>Joined the Climate-Ocean-Atmosphere Program at Scripps, UC San Diego</p>
@@ -368,16 +337,18 @@ You can find more about me by reading my welcome blog post <a href="./about-me/2
       <div class="col-lg-8 col-lg-offset-2">
         <h2 id="code">Code</h2>
 
-<p>I strive to produce high quality, well-tested code.
-I’m an advocate of free software. All my codes are under version control.
-I contribute to open source projects, and
- I’m core developer for <a href="http://pyqg.readthedocs.org/en/stable/">pyqg</a>.
+<p>I strive to write high-quality, well-tested, and well-documented code.
+I’m an advocate of free software. All my codes are under version control, and
+I contribute to several open source projects.
+I’m core developer for <a href="http://pyqg.readthedocs.org/en/stable/">pyqg</a>, a pythonic
+pseudo-spectral code to solve the quasigeostrophic equations.
 Checkout my repositories on <a href="https://github.com/crocha700">github</a>, and ping me
 if you have any questions.</p>
 
 <p>I’m a member of NumFOCUS (open code, better science), I agree with
 <a href="http://lorenabarba.com/gallery/reproducibility-pi-manifesto/">Lorena Barba</a>, and
-I endorse the  <a href="http://sciencecodemanifesto.org">science code manifesto</a>.</p>
+I endorse the  <a href="http://sciencecodemanifesto.org">science code manifesto</a>. I wrote the <a href="https://medium.com/@crocha700/the-open-science-graduate-student-manifesto-f785b38d7b70#.nvmw685c7">Open Science Graduate Student Manifesto
+</a>.</p>
 
 
       </div>
@@ -401,9 +372,9 @@ I endorse the  <a href="http://sciencecodemanifesto.org">science code manifesto<
       <div class="col-lg-8 col-lg-offset-2">
         <h1 id="collaborators">Collaborators</h1>
 
-<p>I’m foturnate to work with very talented scientists. In the past two of years, I have actively worked with</p>
+<p>I’m foturnate to work with very talented scientists. In the past couple of years, I have worked with</p>
 
-<p><a href="http://www-pord.ucsd.edu/~wryoung">Bill Young</a>, <a href="http://www-pord.ucsd.edu/~sgille">Sarah Gille</a>, <a href="http://tryfan.ucsd.edu/">Teri Chereskin</a>, <a href="http://www.cims.nyu.edu/~grooms/grooms.html">Ian Grooms</a>, <a href="https://science.jpl.nasa.gov/people/Menemenlis/">Dimitris Menemenlis</a>, <a href="https://ceps.unh.edu/faculty/chini">Greg Chini</a>  </p>
+<p><a href="http://www-pord.ucsd.edu/~wryoung">Bill Young</a>, <a href="http://www-pord.ucsd.edu/~sgille">Sarah Gille</a>, <a href="http://tryfan.ucsd.edu/">Teri Chereskin</a>, <a href="https://sites.google.com/a/colorado.edu/ian-grooms/">Ian Grooms</a>, <a href="https://science.jpl.nasa.gov/people/Menemenlis/">Dimitris Menemenlis</a>, <a href="https://ceps.unh.edu/faculty/chini">Greg Chini</a>, <a href="http://lado.io.usp.br/pt/equipe/ilson.php">Ilson Silveira</a>, <a href="http://www.umassd.edu/engineering/mne/people/facultyandstaff/amittandon/">Amit Tandon</a></p>
 
 
       </div>
@@ -497,14 +468,6 @@ I endorse the  <a href="http://sciencecodemanifesto.org">science code manifesto<
 
       
 
-    
-
-      
-
-    
-
-      
-
         
 <!-- Publications Start -->
 
@@ -517,34 +480,46 @@ I endorse the  <a href="http://sciencecodemanifesto.org">science code manifesto<
 
 <ul>
   <li>
-    <p><strong>Rocha, C. B.</strong>, W. R. Young, and I. Grooms: On Galerkin approximations for
- the surface-active quasigeostrophic equations, JPO <a href="http://journals.ametsoc.org/doi/pdf/10.1175/JPO-D-15-0073.1">doi:10.1175/JPO- D-15-0073.1</a>, <em>in press</em>.
- (<a href="./pdfs/galerkin_qg.pdf">preprint</a>,
+    <p><strong>Rocha, C. B.</strong>,  S. T. Gille, T. K. Chereskin, D. Menemenlis: “Seasonality
+of submesoscale dynamics in the Kuroshio Extension”, under review for GRL.
+(<a href="https://github.com/crocha700/UpperOceanSeasonality">project repository</a>).</p>
+  </li>
+  <li>
+    <p>Ardhuin, F.,  Gille, S. T.,
+Menemenlis, D., <strong>Rocha, C. B.</strong>, Rascle, N., Chapron, B., Gula, J., Molemaker, J.,:
+Small scale currents have large effects on ocean wave heights, under review for GRL.</p>
+  </li>
+  <li>
+    <p><strong>Rocha, C. B.</strong> and W. R. Young: “Homogeneous quasigeostrophic turbulence driven by a uniform wind stress”, to be submitted to JFM.</p>
+  </li>
+  <li>
+    <p><strong>Rocha, C. B.</strong>, S. T. Gille and T. K. Chereskin: “Mesoscale to Submesoscale Upper-Ocean Spectra
+          from AltiKa and a numerical simulation”, to be submitted to JGR.</p>
+  </li>
+  <li>
+    <p>T. Chereskin, S. T. Gille, <strong>Rocha, C. B.</strong>:
+“Wave-vortex decomposition in the California Current System, to be submitted to JPO.</p>
+  </li>
+</ul>
+
+<h3 id="peer-reviewed">Peer-reviewed</h3>
+
+<ul>
+  <li>
+    <p><strong>Rocha, C. B.</strong>, T. Chereskin, S. T. Gille, and D. Menemenlis (2016):
+Mesoscale to submesoscale wavenumber spectra in Drake Passage, J. Phys. Oceanogr., 46, 601-620, <a href="http://journals.ametsoc.org/doi/abs/10.1175/JPO-D-15-0087.1">doi:10.1175/JPO-D-15-0087.1</a>.
+(<a href="./pdfs/drake_spec.pdf">preprint</a>,
+<a href="https://github.com/crocha700/dp_spectra">data and codes</a>).</p>
+  </li>
+  <li>
+    <p><strong>Rocha, C. B.</strong>, W. R. Young, and I. Grooms (2016): On Galerkin approximations for
+ the surface-active quasigeostrophic equations, J. Phys. Oceanogr., 46, 125–139, <a href="http://journals.ametsoc.org/doi/abs/10.1175/JPO-D-15-0073.1">doi:10.1175/JPO- D-15-0073.1</a>
+ (<a href="./pdfs/galerkin_qg.pdf">pdf</a>,
  <a href="http://arxiv.org/abs/1504.03361">arXiv</a>,
  <a href="http://nbviewer.ipython.org/github/crocha700/qg_vertical_modes/blob/master/index.ipynb">codes</a>,
  <a href="http://nbviewer.ipython.org/github/crocha700/qg_vertical_modes/blob/master/supplementary_galerkin_qg.pdf">algebra details</a>,
  <a href="../figs/wordle_galerkin_paper.png">wordle</a>)</p>
   </li>
-  <li>
-    <p><strong>Rocha, C. B.</strong>, T. Chereskin, S. T. Gille, and D. Menemenlis:
-“Mesoscale to submesoscale wavenumber spectra in Drake Passage, submitted to JPO.
-(<a href="./pdfs/drake_spec.pdf">preprint</a>,
-<a href="https://github.com/crocha700/dp_spectra">data and codes</a>)</p>
-  </li>
-  <li>
-    <p>T. Chereskin, S. T. Gille, <strong>Rocha, C. B.</strong>, Cornuelle, B., and D. Menemenlis:
-“Wave-vortex decomposition in the California Current System, to be submitted to JPO.</p>
-  </li>
-  <li>
-    <p>Ardhuin, F., Rascle, N., Chapron, B., Gula, J., Molemaker, J., Gille, S.,
-Menemenlis, D., <strong>Rocha, C.</strong>: Small scale currents have large effects on
-dominant ocean waves, to be submitted to GRL.</p>
-  </li>
-</ul>
-
-<h3 id="printed">Printed</h3>
-
-<ul>
   <li>
     <p><strong>Rocha, C. B.</strong>, I. C. A. da Silveira, B. M. Castro, and J. A. M. Lima (2014),
 Vertical structure, energetics, and dynamics of the Brazil Current System at 22S–28S,
@@ -557,6 +532,12 @@ J. Geophys. Res. Oceans, 119, 52–69,
  J. Geophys. Res. Oceans, 118, 2734–2745.
  <a href="http://onlinelibrary.wiley.com/doi/10.1002/jgrc.20214/abstract">doi:10.1002/jgrc.20214</a></p>
   </li>
+</ul>
+
+<h3 id="the-grey-literature">The grey literature</h3>
+
+<ul>
+  <li><strong>Rocha, C. B.</strong>, 2015: <a href="./pdfs/GFD15_report_CR.pdf">Coupled reduced equations for strongly stratified flows</a>, Proceedings of the Geophysical Fluid Dynamics Program, Woods Hole Oceanographic Institution, Woods Hole, MA.</li>
 </ul>
 
       </div>
@@ -574,20 +555,12 @@ J. Geophys. Res. Oceans, 119, 52–69,
 
     
 
-      
-
-    
-
-      
-
-    
-
     
  <!-- Footer Start -->
 
 <footer>
     <div class="container text-center">
-        <p>Copyright &copy; Cesar B. Rocha 2015</p>
+        <p>Copyright &copy; Cesar B. Rocha 2016</p>
     </div>
 </footer>
 
@@ -628,33 +601,6 @@ J. Geophys. Res. Oceans, 119, 52–69,
 
 
 
-
-
-
-  <!-- Disqus -->
-
-  
-
-  
-
-    <!-- Comments Counter Start -->
-
-    <script type="text/javascript">
-    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-    var disqus_shortname = ''; // required: replace example with your forum shortname
-
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function () {
-    var s = document.createElement('script'); s.async = true;
-    s.type = 'text/javascript';
-    s.src = '//' + disqus_shortname + '.disqus.com/count.js';
-    (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-    }());
-    </script>
-
-    <!-- Comments Counter End -->
-
-  
 
 
 
