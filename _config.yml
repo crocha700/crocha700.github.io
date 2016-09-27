@@ -86,15 +86,15 @@ events:
   - image: "/img/career/Cesar_Pier.jpg"
     date: "September 2013"
     description: "Joined the Climate-Ocean-Atmosphere Program at Scripps, UC San Diego"
-  - image: "/img/career/ms.png"
-    date: "July 2013"
-    description: "Graduated with a MSc degree from University of Sao Paulo"
-  - image: "/img/career/formandos.png"
-    date: "February 2011"
-    description: "Graduated with a BSc degree from University of Sao Paulo"
+#  - image: "/img/career/ms.png"
+#    date: "July 2013"
+#    description: "Graduated with a MSc degree from University of Sao Paulo"
+#  - image: "/img/career/formandos.png"
+#    date: "February 2011"
+#    description: "Graduated with a BSc degree from University of Sao Paulo"
 
 # First image of the Career timeline
-career-img: "/img/career/Cesar_Freshman.png"
+career-img: "/img/career/ms.png"
 
 ##################
 # Contact layout #
