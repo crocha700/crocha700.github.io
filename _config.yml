@@ -62,7 +62,7 @@ lines:			# You can add HTML Tags in the Text
 # Blog #
 ########
 
-post-preview-words: 80
+#post-preview-words: 80
 
 jekyll-paginate: 5
 
