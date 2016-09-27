@@ -62,15 +62,15 @@ lines:			# You can add HTML Tags in the Text
 # Blog #
 ########
 
-#post-preview-words: 80
+post-preview-words: 80
 
 jekyll-paginate: 5
 
 fb-share: True
 twitter-share: True
 google-plus-share: True
-#linkedin-share: True
-#disqus-shortname: ""
+linkedin-share: True
+disqus-shortname: ""
 
 ###############
 # Life Events #
