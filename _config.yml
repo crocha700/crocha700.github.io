@@ -53,10 +53,10 @@ lines:			# You can add HTML Tags in the Text
   - text: "Geophysical fluid dynamics"
   - text: "Physical oceanography"
   - text: "Computational fluid dynamics"
-  - text: "Data science"
+  #- text: "Data science"
   - text: "Reproducibility"
   - text: "Oceanographic big data"
-  - text: "Python"
+  #- text: "Python"
 
 ########
 # Blog #
