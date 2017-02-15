@@ -131,7 +131,7 @@ social:
 pages_list:
   About: 'about'
   Contact: 'contact'
-  Career: 'career'
+  Bio: 'bio'
   Code: 'code'
   Publications: 'publications'
 
