@@ -130,9 +130,8 @@ social:
 
 pages_list:
   About: 'about'
-  Publications: 'publications'
   Code: 'code'
-  Contact: 'contact'
+  Publications: 'publications'
 
 
 # Enable minification SASS
