@@ -133,7 +133,6 @@ pages_list:
   Publications: 'publications'
   Code: 'code'
   Contact: 'contact'
-  Bio: 'bio'
 
 
 # Enable minification SASS
