@@ -106,6 +106,8 @@ email: "crocha@ucsd.edu"
 ##################
 
 social:
+  - title: "google"
+    url: https://scholar.google.com/citations?user=giV4qIYAAAAJ&hl=en
   - title: "twitter"
     url: "https://twitter.com/crocha700"
   - title: "github"
