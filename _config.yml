@@ -52,9 +52,11 @@ delete-delay: 8000	# Default 5000
 lines:			# You can add HTML Tags in the Text
   - text: "Physical oceanography"
   - text: "Geophysical fluid dynamics"
-  - text: "Theory and observation and computation"
-  - text: "Clear and accessible communication"
-  - text: "Reproducibility"
+  - text: "Theory"
+  - text: "Observation"
+  - text: "Computation"
+#  - text: "Clear and accessible communication"
+#  - text: "Reproducibility"
   #- text: "Python"
 
 ########
