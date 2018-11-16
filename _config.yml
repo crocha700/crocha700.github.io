@@ -108,8 +108,6 @@ career-img: "/img/career/ms.png"
 ##################
 
 social:
-  - title: "mail"
-    url: "crocha@ucsd.edu"
   - title: "google"
     url: https://scholar.google.com/citations?user=giV4qIYAAAAJ&hl=en
   - title: "github"
