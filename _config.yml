@@ -134,7 +134,7 @@ social:
 
 pages_list:
   About: 'about'
-  Code: 'code'
+#  Code: 'code'
   Publications: 'publications'
 
 
