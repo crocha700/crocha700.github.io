@@ -108,7 +108,7 @@ career-img: "/img/career/ms.png"
 ##################
 
 social:
-  - title: "google"
+  - title: "googlescholar"
     url: https://scholar.google.com/citations?user=giV4qIYAAAAJ&hl=en
   - title: "github"
     url: "https://github.com/crocha700"
