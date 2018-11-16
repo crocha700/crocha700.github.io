@@ -20,10 +20,7 @@ force-https: True
 # HTML Head #
 #############
 
-author: 
-    name: "Cesar B. Rocha"
-    googlescholar: "https://scholar.google.com/citations?user=giV4qIYAAAAJ&hl=en"
-
+author: "Cesar B. Rocha"
 lang: "en"
 title: " Cesar B. Rocha "
 #favicon: "/img/favicon.ico"
