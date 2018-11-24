@@ -107,13 +107,13 @@ career-img: "/img/career/ms.png"
 # Social Buttons #
 ##################
 
-social:
-  - title: "google"
-    url: https://scholar.google.com/citations?user=giV4qIYAAAAJ&hl=en
-  - title: "github"
-    url: "https://github.com/crocha700"
-  - title: "bitbucket"
-    url: "https://bitbucket.com/crocha700"
+#social:
+#  - title: "google"
+#    url: https://scholar.google.com/citations?user=giV4qIYAAAAJ&hl=en
+#  - title: "github"
+#    url: "https://github.com/crocha700"
+#  - title: "bitbucket"
+#    url: "https://bitbucket.com/crocha700"
 
 ############
 # 404 page #
