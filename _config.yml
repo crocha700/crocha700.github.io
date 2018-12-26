@@ -24,7 +24,7 @@ author: "Cesar B. Rocha"
 lang: "en"
 title: " Cesar B. Rocha "
 #favicon: "/img/favicon.ico"
-description: "Personal website of Cesar B. Rocha"
+description: "Professional of Cesar B. Rocha"
 keywords: "Cesar B. Rocha, Oceanography, Geophysical Fluid Dynamics, Data Science"
 
 ################
@@ -51,10 +51,10 @@ start-delay: 200	# Default 200
 delete-delay: 8000	# Default 5000
 lines:			# You can add HTML Tags in the Text
   - text: "Physical oceanography"
-  - text: "Geophysical fluid dynamics"
+  - text: "Upper-ocean dynamics"
   - text: "Theory"
-  - text: "Observation"
-  - text: "Computation"
+  - text: "Observations"
+  - text: "Computer simulations"
 #  - text: "Clear and accessible communication"
 #  - text: "Reproducibility"
   #- text: "Python"
