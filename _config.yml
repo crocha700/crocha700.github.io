@@ -1,143 +1,187 @@
-
+# -----------------------------------------------------------------------------
 # Site settings
+# -----------------------------------------------------------------------------
 
-url: "https://crocha700.github.io"
+title: Cesar B. Rocha
+email: cesar.rocha@uconn.edu
+description: > # this means to ignore newlines until "url:"
+  Cesar B Rocha academic Web page
+footer_text: >
+  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
-# If you're hosting your site at a Project repository on GitHub pages
-# (https://yourusername.github.io/repository-name)
-# and NOT your user repository (https://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
+url:  # the base hostname & protocol for your site
+baseurl: /al-folio # the subpath of your site, e.g. /blog/
+last_updated: false # set to true if you want to display last updated in the footer
 
-baseurl:
 
-google-tracking-id: "<YOUR GOOGLE TRACKING ID>"
+# -----------------------------------------------------------------------------
+# Layout
+# -----------------------------------------------------------------------------
 
-# Forces https everywhere in your website, except when you serve it locally
+navbar_fixed: true
+footer_fixed: true
+# # TODO: add layout settings (single page vs. multi-page)
 
-force-https: True
+# -----------------------------------------------------------------------------
+# Open Graph
+# -----------------------------------------------------------------------------
+# Display links to the page with a preview object on social media.
+# To achieve this, change serve_og_meta to true and then provide the URL of the
+# preview image as the value of og_image.
+serve_og_meta: false # Include Open Graph meta tags in the HTML head
+og_image: # The site-wide (default for all links) Open Graph preview image
 
-#############
-# HTML Head #
-#############
+# -----------------------------------------------------------------------------
+# Social integration
+# -----------------------------------------------------------------------------
 
-author: "Cesar B. Rocha"
-lang: "en"
-title: " Cesar B. Rocha "
-#favicon: "/img/favicon.ico"
-description: "Professional of Cesar B. Rocha"
-keywords: "Cesar B. Rocha, Oceanography, Geophysical Fluid Dynamics, Data Science"
+github_username: cesar-rocha    # your GitHub user name
+twitter_username: OceanDynUConn # your Twitter handle
+# linkedin_username: # your LinkedIn user name
+scholar_userid: crocha@ucsd.edu # your Google Scholar ID
+orcid_id: 0000-0003-4063-5468 # your ORCID ID
+medium_username: # your Medium username
+# quora_username: # your Quora username
+publons_id: AAH-9720-2019 # your ID on Publons
+research_gate_profile: # your profile on ResearchGate
+# blogger_url: # your blogger URL
 
-################
-# Intro layout #
-################
+contact_note: >
 
-#black-favicon: "/img/black-lab-glass.ico"
-#background-img: "../img/intro-bg.jpg"
-background-img: "../img/background_blackboard.png"
-#me-img: "/img/jetpacktocat.png"
-#me-img: "/img/jetpacktocat.png"
-me-img: "/img/CesarSite.jpeg"
+google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
-##############################
-# Dynamic Text on the header #
-##############################
+# -----------------------------------------------------------------------------
+# Blog
+# -----------------------------------------------------------------------------
 
-dynamic-typing: True
-shuffle: True	# Shuffle the lines.
-loop: True
-loop-count:	False # Set False for infinite loop, or set any number for finite loop.
-type-speed:	10		# Default 10
-start-delay: 200	# Default 200
-delete-delay: 8000	# Default 5000
-lines:			# You can add HTML Tags in the Text
-  - text: "Physical oceanography"
-  - text: "Upper-ocean dynamics"
-  - text: "Theory"
-  - text: "Observations"
-  - text: "Computer simulations"
-#  - text: "Clear and accessible communication"
-#  - text: "Reproducibility"
-  #- text: "Python"
+# Uncomment this block when you are ready to have a blog
 
-########
-# Blog #
-########
-
-#post-preview-words: 80
+# blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
+# blog_description: a simple whitespace theme for academics
+# permalink: /blog/:year/:title/
 #
-#jekyll-paginate: 5
+# # Pagination
+# pagination:
+#   enabled: true
 #
-#fb-share: True
-#twitter-share: True
-#google-plus-share: True
-#linkedin-share: True
-#disqus-shortname: ""
+# # Comments
+# disqus_shortname: al-folio # put your disqus shortname
 
-###############
-# Life Events #
-###############
+# -----------------------------------------------------------------------------
+# Collections
+# -----------------------------------------------------------------------------
 
-events:
-  - image: "/img/career/Cesar_NASA.jpg"
-    date: "2016"
-    description: "NASA Earth and Space Science Graduate Fellow"
-  - image: "/img/career/Cesar_GFD.png"
-    date: "Summer 2015"
-    description: "Fellow of the Geophysical Fluid Dynamics Program"
-  - image: "/img/career/Cesar_Pier.jpg"
-    date: "September 2013"
-    description: "Joined the Climate-Ocean-Atmosphere Program at Scripps, UC San Diego"
-#  - image: "/img/career/ms.png"
-#    date: "July 2013"
-#    description: "Graduated with a MSc degree from University of Sao Paulo"
-#  - image: "/img/career/formandos.png"
-#    date: "February 2011"
-#    description: "Graduated with a BSc degree from University of Sao Paulo"
+collections:
+  news:
+    defaults:
+      layout: post
+    output: true
+    permalink: /news/:path/
+  projects:
+    output: true
+    permalink: /research/:path/
 
-# First image of the Career timeline
-career-img: "/img/career/ms.png"
+news_limit: 5
 
-##################
-# Contact layout #
-##################
+# -----------------------------------------------------------------------------
+# Jekyll settings
+# -----------------------------------------------------------------------------
 
-#email: "crocha@ucsd.edu"
+# Markdown and syntax highlight
+markdown: kramdown
+highlighter: rouge
+highlight_theme: github  # https://github.com/jwarby/jekyll-pygments-themes
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+    span:
+      line_numbers: false
+    block:
+      line_numbers: false
+      start_line: 1
 
-##################
-# Social Buttons #
-##################
+# Includes & excludes
+include: ['_pages']
+exclude: [vendor]
 
-#social:
-#  - title: "google"
-#    url: https://scholar.google.com/citations?user=giV4qIYAAAAJ&hl=en
-#  - title: "github"
-#    url: "https://github.com/crocha700"
-#  - title: "bitbucket"
-#    url: "https://bitbucket.com/crocha700"
+# Plug-ins
+plugins:
+  - jekyll-email-protect
+  - jekyll-paginate-v2
+  - jekyll/scholar
+  - jemoji
+  # - bootstrap
+  # - material-sass
 
-############
-# 404 page #
-############
+# -----------------------------------------------------------------------------
+# Jekyll Scholar
+# -----------------------------------------------------------------------------
 
-404-img: "/img/labtocat.png"
+scholar:
 
-################################################################################
+  last_name: Rocha
+  bibliography_template:
 
-# Tread carefully if you want to change the variables below this point!
+  style: chicago-fullnote-bibliography
+  locale: en
 
-# Navigation bar links
-# Blog link in the blog and post pages will point to the blog.html#blog
-# In the default page it will point to the preview of the last post
+  source: /_bibliography/
+  bibliography: papers.bib
+  # bibliography_template: bibtemplate
+  bibliography_template: bib
 
-pages_list:
-  About: 'about'
-#  Code: 'code'
-  Publications: 'publications'
+  replace_strings: true
+  join_strings: true
 
+  details_dir: bibliography
+  details_layout: bibtex.html
+  details_link: Details
 
-# Enable minification SASS
-sass:
-  style: compressed
+  query: "@*"
 
-# Exclusion list from the generated _site
-exclude: ["Rakefile", "LICENSE", "readme.markdown", "vendor"]
+# -----------------------------------------------------------------------------
+# Optional Features
+# -----------------------------------------------------------------------------
+
+enable_google_analytics:  false
+enable_katex:             true
+enable_mansory:           true
+enable_progressbar:       true
+enable_tooltips:          false
+show_social_icons:        false
+
+# -----------------------------------------------------------------------------
+# Library versions
+# -----------------------------------------------------------------------------
+
+academicons:
+  version: "1.8.6"
+  integrity: "sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw="
+bootstrap:
+  version: "4.4.1"
+  integrity:
+    css: "sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
+    js: "sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+fontawesome:
+  version: "5.13.0"
+  integrity: "sha256-h20CPZ0QyXlBuAw7A+KluUYx/3pK+c7lYEpqLTlxjYQ="
+jquery:
+  version: "3.4.1"
+  integrity: "sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+katex:
+  version: "0.11.1"
+  integrity:
+    css: "sha256-V8SV2MO1FUb63Bwht5Wx9x6PVHNa02gv8BgH/uH3ung="
+    js: "sha256-F/Xda58SPdcUCr+xhSGz9MA2zQBPb0ASEYKohl8UCHc="
+mansory:
+  version: "4.2.2"
+  integrity: "sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI="
+mdb:
+  version: "4.17.0"
+  integrity:
+    css: "sha256-/SwJ2GDcEt5382i8zqDwl36VJGECxEoIcBIuoLmLR4g="
+    js: "sha256-UGNYR+uy841zU5TiO2yXD96UktHt9TM4/WXvsDLr4l0="
+popper:
+  version: "2.4.0"
+  integrity: "sha256-OH05DFHUWzr725HmuHo3pnuvUUn+TJuj8/Qz9xytFEw="

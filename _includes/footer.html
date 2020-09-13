@@ -1,12 +1,21 @@
-
- <!-- Footer Start -->
-
-<footer>
-    <div class="container text-center">
-        <p>Copyright &copy; {{ site.author }} {{ site.time | date: "%Y" }}</p>
-    </div>
+{% if site.footer_fixed %}
+<footer class="fixed-bottom">
+  <div class="container mt-0">
+    &copy; Copyright {{ site.time | date: '%Y' }} {{ site.title }}.
+    {{ site.footer_text }}
+    {% if site.last_updated %}
+    Last updated: {{ "now" | date: '%B %d, %Y' }}.
+    {% endif %}
+  </div>
 </footer>
-
-<p><br><br><br><br><br><br></p>
-
-<!-- Footer End -->
+{% else %}
+<footer class="sticky-bottom mt-5">
+  <div class="container">
+    &copy; Copyright {{ site.time | date: '%Y' }} {{ site.title }}.
+    {{ site.footer_text }}
+    {% if site.last_updated %}
+    Last updated: {{ "now" | date: '%B %d, %Y' }}.
+    {% endif %}
+  </div>
+</footer>
+{% endif %}
