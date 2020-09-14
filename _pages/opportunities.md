@@ -14,7 +14,7 @@ research <ins>[projects](../research)</ins> and review the steps for applying to
 
 If you are an undergrad looking for training in data analysis  or computer modeling
 or applied fluid mechanics, a research experience
-in physical oceanography could be well-suited for you.
+in my group could be well-suited for you. No prior experience in physical oceanography is required.
 Contact me if interested.
 
 
