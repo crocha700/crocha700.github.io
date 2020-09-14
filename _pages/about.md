@@ -23,7 +23,7 @@ I earned in 2018 a Ph.D. in Physical Oceanography from <ins>[Scripps Institution
 University of California San Diego. From 2018 to 2020, I was a Postdoctoral Scholar
 at <ins>[Woods Hole Oceanographic Institution](https://www.whoi.edu)</ins>.
 
-In fall 2020 I joined <ins>[University of Connecticut](https://www.uconn.edu)</ins> as
+In fall 2020 I joined the <ins>[University of Connecticut](https://www.uconn.edu)</ins> as
 an Assistant Professor in the Department of Marine Sciences, where I'm starting
 the Ocean Dynamics Research Group. [Join us!](./opportunities)
 

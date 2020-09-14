@@ -9,12 +9,12 @@ importance: 1
 ***
 
 Upper-ocean dynamics concerns the study of the causes and consequences of flows in the ocean mixed layer
-and upper pycnocline. These include eddies, fronts, filaments, waves, and turbulence. Understanding the dynamics of 
+and upper pycnocline, including eddies, fronts, filaments, waves, and turbulence. Understanding the dynamics of 
 these flows is critical for understanding and predicting climate because the upper ocean connects the atmosphere
 (where humans are pumping greenhouse gases) to the deep ocean, where most of the excess heat those gases trap end up. 
 
 I'm particularly interested in submesoscale flows in the upper ocean.  Those are 0.1-10 km eddies and fronts and 
-filaments associated with large vertical velocities. I'm a member of the <ins>[Sub-Mesoscale Ocean Dynamics Experiment](https://espo.nasa.gov/s-mode)</ins> (S-MODE) Science Team. S-MODE is a NASA Earth Venture Suborbital-3 (EVS-3) mission that aims to test the hypothesis that submesoscale ocean dynamics make important contributions to the vertical exchange of climate and biological tracers in the upper ocean. S-MODE field efforts will occur in the California Current, consisting of a two-week pilot experiment, likely in fall 2021, and two month-long intensive operations periods (IOPs) in the following years.
+filaments associated with large vertical velocities. I'm part of the <ins>[Sub-Mesoscale Ocean Dynamics Experiment](https://espo.nasa.gov/s-mode)</ins> (S-MODE), a NASA Earth Venture Suborbital-3 (EVS-3) mission that aims to test the hypothesis that submesoscale ocean dynamics make important contributions to the vertical exchange of climate and biological tracers in the upper ocean. S-MODE field efforts will occur in the California Current, consisting of a two-week pilot experiment, likely in fall 2021, and two month-long intensive operations periods (IOPs) in the following years.
 
 As part of S-MODE, we will deploy an array of saildrones in kilometer-scale
 formation. [Saildrones](https://www.saildrone.com) are robotic sailboats developed by

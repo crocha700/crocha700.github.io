@@ -5,9 +5,9 @@ date: 2020-08-24 10:00:01-0000
 inline: false
 ---
 
-On 24 August 2020, I joined the <ins>[University of Connecticut](https://uconn.edu)</ins> as an Assistant Professor. I'm excited to become of member of a young and energetic faculty in the Department of Marine Sciences, where I will be starting the Ocean Dynamics Research Group. And I look forward to taking up mentoring and teaching as part of my professional duties. 
+On 24 August 2020, I joined the <ins>[University of Connecticut](https://uconn.edu)</ins> as an Assistant Professor. I'm excited to become a member of a diverse and energetic faculty in the Department of Marine Sciences, where I will be starting the Ocean Dynamics Research Group. And I look forward to taking up mentoring and teaching as part of my professional duties. 
 
-The last two years as a WHOI postdoc have been great. It's sad to leave without a chance to thank everyone, but the good news is that I remain affiliated with WHOI, now as a <ins>[Guest Investigador](https://www.whoi.edu/profile/crocha/)</ins>. Once we overcome this pandemic, I expect to visit Wodds Hole often and spend at least one summer month per year at WHOI.
+The last two years as a WHOI postdoc have been great. It's sad to leave without a chance to thank everyone, but the good news is that I remain affiliated with WHOI, now as a <ins>[Guest Investigador](https://www.whoi.edu/profile/crocha/)</ins>. Once we overcome this pandemic, I expect to visit Woods Hole often and spend at least one summer month per year at WHOI.
 
 Some practical information:
 - My new e-mail address is <ins>[cesar Dot rocha At uconn.edu](cesar.rocha@uconn.edu)</ins>;
