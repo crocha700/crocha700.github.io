@@ -7,7 +7,7 @@ nav: true
 ---
 
 I'm seeking motivated graduate students to join my
-research group. Please reach out ([cesar Dot rocha At uconn.edu](cesar.rocha@uconn.edu)) if you are
+research group. Please reach out ([cesar Dot rocha At uconn.edu](mailto:cesar.rocha@uconn.edu)) if you are
 interested in physical oceanography. Check out our active
 research <ins>[projects](../research)</ins> and review the steps for applying to our
 <ins>[graduate program](https://marinesciences.uconn.edu/academic/apply-grad/)</ins> in oceanography.
