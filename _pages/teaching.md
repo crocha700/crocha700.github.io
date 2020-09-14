@@ -6,4 +6,4 @@ description:
 nav: true
 ---
 
-Cesar is currently on teaching relief.
+I'm currently on teaching relief.
