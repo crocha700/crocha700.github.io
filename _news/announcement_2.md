@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Web site up and running!
+title: New website up and running!
 date: 2020-09-13 10:00:01-0000
 inline: false
 ---
