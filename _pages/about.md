@@ -25,7 +25,7 @@ at <ins>[Woods Hole Oceanographic Institution](https://www.whoi.edu)</ins>.
 
 In fall 2020 I joined the <ins>[University of Connecticut](https://www.uconn.edu)</ins> as
 an Assistant Professor in the Department of Marine Sciences, where I'm starting
-the Ocean Dynamics Research Group. [Join us!](./opportunities)
+the Ocean Dynamics Research Group. <ins>[Join us!](./opportunities)</ins>
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
