@@ -16,8 +16,7 @@ If you would like to join my group as a postdoc or want to collaborate on a rese
 
 If you are an undergrad looking for training in data analysis  or computer modeling
 or applied fluid mechanics, a research experience
-in my group could be well-suited for you. No prior experience in physical oceanography is required.
-Reach out to me directly if interested.
+in my group could be well-suited for you. Reach out to me directly if interested. No prior experience in physical oceanography is required.
 
 
 *I'm committed to building a diverse and inclusive research group, and I strongly
