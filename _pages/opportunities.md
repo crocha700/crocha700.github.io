@@ -15,7 +15,7 @@ research <ins>[projects](../research)</ins> and review the steps for applying to
 If you would like to join my group as a postdoc or want to collaborate on a research project, please contact me.
 
 If you are an undergrad looking for training in data analysis  or computer modeling
-or applied fluid mechanics, a research experience
+or applied fluid mechanics, a paid research experience (REU)
 in my group could be well-suited for you. Reach out to me directly if interested. No prior experience in physical oceanography is required.
 
 
