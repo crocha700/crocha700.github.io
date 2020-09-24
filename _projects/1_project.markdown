@@ -17,7 +17,7 @@ I'm particularly interested in submesoscale flows in the upper ocean.  Those are
 filaments associated with large vertical velocities. I'm part of the <ins>[Sub-Mesoscale Ocean Dynamics Experiment](https://espo.nasa.gov/s-mode)</ins> (S-MODE), a NASA Earth Venture Suborbital-3 (EVS-3) mission that aims to test the hypothesis that submesoscale ocean dynamics make important contributions to the vertical exchange of climate and biological tracers in the upper ocean. S-MODE field efforts will occur in the California Current, consisting of a two-week pilot experiment, likely in fall 2021, and two month-long intensive operations periods (IOPs) in the following years.
 
 As part of S-MODE, we will deploy an array of saildrones in kilometer-scale
-formation. [Saildrones](https://www.saildrone.com) are robotic sailboats developed by
+formation. [Saildrones](https://www.saildrone.com) are robotic sailboats 
 rigged with atmospheric and oceanic sensors. Critical observations in S-MODE are velocity profiles
 from ADCP on saildrones. These will yield unprecedented estimates of submesoscale velocity gradients.
 Cesar is leading this saildrone effort, and there are opportunities for
