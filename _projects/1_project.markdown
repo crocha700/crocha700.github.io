@@ -20,8 +20,8 @@ As part of S-MODE, we will deploy an array of saildrones in kilometer-scale
 formation. [Saildrones](https://www.saildrone.com) are robotic sailboats 
 rigged with atmospheric and oceanic sensors. Critical observations in S-MODE are velocity profiles
 from ADCP on saildrones. These will yield unprecedented estimates of submesoscale velocity gradients.
-Cesar is leading this saildrone effort, and there are opportunities for
-students to work with him on S-MODE data.
+I'm leading this saildrone effort, and there are opportunities for
+students to work with me on S-MODE data.
 
 I was also involved in the Saildrone component of the <ins>[Atlantic Tradewind Ocean-Atmosphere Mesoscale Interaction Campaign](https://psl.noaa.gov/atomic/)</ins> (ATOMIC), led by Chelle Gentemann. As part of ATOMIC, we deployed three saildrones off French Guiana, Suriname and Guyana, where they criss-crossed North Brazil Current Rings. I'm using  ATOMIC saildrone data to study submesoscale velocity gradients and fronts in the tropics.
 
