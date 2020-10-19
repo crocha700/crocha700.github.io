@@ -25,29 +25,25 @@ students to work with me on S-MODE data.
 
 I was also involved in the Saildrone component of the <ins>[Atlantic Tradewind Ocean-Atmosphere Mesoscale Interaction Campaign](https://psl.noaa.gov/atomic/)</ins> (ATOMIC), led by Chelle Gentemann. As part of ATOMIC, we deployed three saildrones off French Guiana, Suriname and Guyana, where they criss-crossed North Brazil Current Rings. I'm using  ATOMIC saildrone data to study submesoscale velocity gradients and fronts in the tropics.
 
-<!--
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/1.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/3.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/saildrone.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    A saildrone deployed in Barbados for the ATOMIC campaign (photo credit: saildrone.com).
 </div>
+
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/HistogramUpper60m.png' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
-</div> -->
+    Statistics of vertical vorticity, horizontal strain and lateral divergence calculated from two saildrones (Rocha et al., in prep.).
+</div>
 
 <!-- You can also put regular text between your rows of images.
 Say you wanted to write a little bit about your project before you posted the rest of the images.
