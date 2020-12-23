@@ -37,7 +37,6 @@ profile:
 - 2010: Best Honors Thesis in Oceanography, Universidade de São Paulo
 
 #### Scientific Service
-- Panelist for NASA
-- Reviewer for NSF
-- Reviewer for over 15 top-tier scientific journals   
+- Panelist for NSF and NASA
+- Reviewer for NSF and more than 15 top-tier scientific journals   
 - Session co-chair for Ocean Sciences Meeting

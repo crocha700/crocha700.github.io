@@ -30,20 +30,15 @@ I was also involved in the Saildrone component of the <ins>[Atlantic Tradewind O
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/saildrone.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
-</div>
-<div class="caption">
-    A saildrone deployed in Barbados for the ATOMIC campaign (photo credit: saildrone.com).
-</div>
-
-
-<div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/HistogramUpper60m.png' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/SaildroneATOMIC_merged.png' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
+
 <div class="caption">
-    Statistics of vertical vorticity, horizontal strain and lateral divergence calculated from two saildrones (Rocha et al., in prep.).
+    (Left) A saildrone deployed in Barbados for the ATOMIC campaign (photo credit: saildrone.com). (Right)  Trajectories of three saildrones deployed in the region of the North Brazil Current Rings. Vectors show near-surface velocity measured by one saildrone. Using saildrone data, we are studying km-scale velocity gradients and associated fronts and (vertical) shear layers.
 </div>
+  
 
 <!-- You can also put regular text between your rows of images.
 Say you wanted to write a little bit about your project before you posted the rest of the images.
